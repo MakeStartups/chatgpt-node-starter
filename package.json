@@ -1,0 +1,32 @@
+{
+  "name": "chatgpt-node-starter",
+  "version": "1.0.0",
+  "description": "A starter template project for building ChatGPT applications using NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeStartups/chatgpt-node-starter.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "ai",
+    "hackathon",
+    "starter",
+    "project",
+    "template"
+  ],
+  "author": "Eric Ryan Harrison <erh@makestartups.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakeStartups/chatgpt-node-starter/issues"
+  },
+  "homepage": "https://github.com/MakeStartups/chatgpt-node-starter#readme",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "openai": "^3.2.1",
+    "readline": "^1.3.0"
+  }
+}

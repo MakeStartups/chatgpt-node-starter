@@ -1,0 +1,3 @@
+# Put your OpenAI Api Key Here
+# https://platform.openai.com/account/api-keys
+OPENAI_API_KEY=
